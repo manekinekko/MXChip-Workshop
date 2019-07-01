@@ -93,7 +93,7 @@
         <p>Loading...</p>
     </div>
     <div class="inpt_box" v-show="!functionAppNameSet">
-        <input type="text" spellcheck="false" v-model="functionAppName" placeholder="Function App Name"><button v-on:click="getState()">Connect</button>
+        <input type="text" spellcheck="false" v-model="functionAppName" placeholder="Function App URL"><button v-on:click="getState()">Connect</button>
     </div>
     <iframe id="user_led_update" name="user_led_update" :src="stateUpdateEndpoint"></iframe>
 </div>
