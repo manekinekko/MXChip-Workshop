@@ -226,11 +226,7 @@ Nous en avons pour l'instant fini avec IoT Hub, mais nous reviendrons plus tard 
 
 ### Créer un App Service pour son site web
 
-Nous allons plus tard réaliser une application web afin de piloter notre carte à distance. Pour l'héberger, le plus 
-simple est de créer une *Web App**. Ce service se charge pour vous de déployer un site web, ainsi que le langage que 
-vous utilisez: PHP, Ruby, Python, NodeJS, .Net ou Java. Il ne vous reste plus qu'à déployer votre code.*
-
-Lors de l'étape de création, pensez bien à sélectionner un site
+Visitez (https://mxchip-workshop.netlify.com/)[https://mxchip-workshop.netlify.com/]
 
 ![Video - Création d'un site web](docs/media/creation-website.gif)
 
