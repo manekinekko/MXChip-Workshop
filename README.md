@@ -10,7 +10,7 @@ réaliser le workshop _codez votre premier projet IoT_ lors du
 - [Créer vos services Azure](#préparer-son-environnement-azure)
 - [Déployez du code sur votre board et connectez-là à Azure](#configurez-votre-board)
 - [Déployez votre fonction dans Azure](#créer-vos-services-ressources-dans-azure)
-- [Déployez votre interface utilisateur dans Azure](#déployez-du-code-sur-votre-board-et-connectez-là-à-azure)
+- [Utiliser la WebApp](#Utiliser-la-webapp)
 - [Ajoutez le support du changement de couleur de la LED](#ajoutez-le-support-du-changement-de-couleur-de-la-led)
 - [[Etape Bonus] Changez à distance le message](#etape-bonus-changez-à-distance-le-message)
 - [[Etape cachée] Envoyez un dessin à distance](#etape-cachée-envoyez-un-dessin-à-distance)
@@ -224,16 +224,9 @@ votre code source (ou repository Github)**. Nous verrons plus tard comment la d�
 
 Nous en avons pour l'instant fini avec IoT Hub, mais nous reviendrons plus tard sur cette partie.
 
-### Créer un App Service pour son site web
+### Utiliser la WebApp
 
-Visitez (https://mxchip-workshop.netlify.com/)[https://mxchip-workshop.netlify.com/]
-
-![Video - Création d'un site web](docs/media/creation-website.gif)
-
-> Lors de cette application, nous allons automatiquement créer un _App Service Plan_, c'est l'infrastructure qui 
-hébergera votre site. Tout comme il existe des "plans" côté IoT Hub, il y en a pour les App Services, et l'un d'entre 
-eux est gratuit. Il n'est pas sélectionné par défaut, mais vous pouvez le personnaliser et ainsi héberger un petit site 
-pour vos prototypes entièrement gratuitement ;)
+Visitez https://mxchip-workshop.netlify.com/ pour se connecter sur votre board.
 
 ### Créer une Azure Function
 
