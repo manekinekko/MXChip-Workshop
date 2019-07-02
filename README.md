@@ -151,8 +151,7 @@ Votre board est normalement déjà configurée. Si vous deviez la reconnecter au
 [les instructions ici](docs/configurer-wifi.md).
 
 En option :
-- Choisir le port COM dans VSC
-- Utiliser l'émualteur
+- Choisir le port COM dans VS Code
 
 ## Créer vos services (ressources) dans Azure
 
