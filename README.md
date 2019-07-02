@@ -10,7 +10,6 @@ réaliser le workshop _codez votre premier projet IoT_ lors du
 - [Créer vos services Azure](#préparer-son-environnement-azure)
 - [Déployez du code sur votre board et connectez-là à Azure](#configurez-votre-board)
 - [Déployez votre fonction dans Azure](#créer-vos-services-ressources-dans-azure)
-- [Utiliser la WebApp](#Utiliser-la-webapp)
 - [Ajoutez le support du changement de couleur de la LED](#ajoutez-le-support-du-changement-de-couleur-de-la-led)
 - [[Etape Bonus] Changez à distance le message](#etape-bonus-changez-à-distance-le-message)
 - [[Etape cachée] Envoyez un dessin à distance](#etape-cachée-envoyez-un-dessin-à-distance)
