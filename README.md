@@ -118,9 +118,9 @@ Enfin il faudra ajouter le SDK spécifique pour la board Arduino MXChip. Pour ce
 
 Afin de réaliser cet atelier, vous aurez besoin d'une souscription Azure. Il y a plusieurs moyens d'en obtenir une: 
 
-- Créer un [abonnement d'essai][azure-free-trial],
-- Si vous lisez cet atelier durant le Roadshow, vous pouvez utiliser l'Azure Pass que nous vous fournissons,
+- (**Obligation**) Si vous lisez cet atelier durant le Roadshow, vous pouvez utiliser l'Azure Pass que nous vous fournissons,
 - Ou si vous êtes abonnés MSDN, utiliser les crédits offerts par votre abonnement.
+- Ou créer un [abonnement d'essai][azure-free-trial],
 
 #### Utiliser votre Azure Pass
 
@@ -224,10 +224,6 @@ votre code source (ou repository Github)**. Nous verrons plus tard comment la d�
 
 Nous en avons pour l'instant fini avec IoT Hub, mais nous reviendrons plus tard sur cette partie.
 
-### Utiliser la WebApp
-
-Visitez https://mxchip-workshop.netlify.com/ pour se connecter sur votre board.
-
 ### Créer une Azure Function
 
 Notre site web sera simplement un "Front HTML". Il lui faudra communiquer avec l'IoT Hub, et pour cela utiliser un
@@ -283,7 +279,8 @@ L'opération peut prendre quelques minutes. Pendant ce temps-là, la LED "progra
 
 ## Créer une interface utilisateur 
 
-Nous l'avons déjà fait pour vous :). 
+Nous l'avons déjà fait pour vous (https://mxchip-workshop.netlify.com/) :)
+
 > Dans une prochaine version de l'atelier, nous proposerons la création d'une interface utilisateur depuis le début.
 
 ### Créer une Azure Function pour communiquer avec IoT Hub
@@ -320,7 +317,8 @@ Il vous restera une dernière petite chose : faire communiquer votre Azure Funct
 
 ### Le moment de vérité !
 
-Lancez le fichier index.html qui est dans le dossier `src/web`, puis indiquez le nom de votre Azure Function. 
+Lancez https://mxchip-workshop.netlify.com/, puis indiquez l'URL complète de votre Azure Function. 
+
 Si tout se passe bien, vous devriez voir le status de votre carte, et en cliquant sur le bouton "RGB LED", la LED de votre carte devrait s'allumer !
 
 ## Ajoutez le support du changement de couleur de la LED
