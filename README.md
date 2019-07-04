@@ -277,7 +277,7 @@ L'opération peut prendre quelques minutes. Pendant ce temps-là, la LED "progra
 
 ## Créer une interface utilisateur 
 
-Nous l'avons déjà fait pour vous (https://mxchip-workshop.netlify.com/) :)
+Nous l'avons déjà fait pour vous : https://mxchip-workshop.netlify.com/
 
 > Dans une prochaine version de l'atelier, nous proposerons la création d'une interface utilisateur depuis le début.
 
@@ -316,6 +316,8 @@ Il vous restera une dernière petite chose : faire communiquer votre Azure Funct
 ### Le moment de vérité !
 
 Lancez https://mxchip-workshop.netlify.com/, puis indiquez l'URL complète de votre Azure Function. 
+
+![Image - Récupértion de l'URL de la fonction](https://user-images.githubusercontent.com/1699357/60516369-e7ab9d00-9cdd-11e9-905d-3808b1ad7e4e.png)
 
 Si tout se passe bien, vous devriez voir le status de votre carte, et en cliquant sur le bouton "RGB LED", la LED de votre carte devrait s'allumer !
 
