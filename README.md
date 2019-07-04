@@ -2,7 +2,7 @@
 
 Ce repository contient le code ainsi que les instructions vous permettant de 
 réaliser le workshop _codez votre premier projet IoT_ lors du 
-[RoadShow développeurs Microsoft France][roadshow-twitter].
+[RoadShow développeurs Microsoft][roadshow-twitter].
 
 - [Objectif du workshop](#objectif-du-workshop)
 - [Préparez votre environnement](#préparez-votre-environnement)
@@ -367,7 +367,7 @@ Ce workshop a été initialement traduit en français par [Christopher Maneu](ht
 
 Vous pouvez trouver la version anglaise par [Jim Bennett](https://github.com/jimbobbennett/MXChip-Workshop) à [cette adresse](https://github.com/jimbobbennett/MXChip-Workshop).
 
-[roadshow-twitter]: https://twitter.com/cmaneu/status/1102847594508832768
+[roadshow-twitter]: https://twitter.com/hashtag/MsDevRoadShow?src=hashtag_click&f=live
 [arduino]: https://www.arduino.cc
 [netcore]: https://dotnet.microsoft.com/download
 [vscode-home]: https://code.visualstudio.com/?wt.mc_id=devroadshowiot-github-wachegha
