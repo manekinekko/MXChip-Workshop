@@ -109,7 +109,7 @@ Voici les valeurs par défaut à ajouter à cette configuration:
 **Pensez à sauvegarder vos paramètres avant de passer à l'étape suivante !**
 
 Enfin il faudra ajouter le SDK spécifique pour la board Arduino MXChip. Pour cela, via la palette de commande (`Ctrl+Shift+P`
- ou `Cmd+Shif+P`), ouvrir la page **Arduino: Board Manager**, et rechercher **AZ3166**, puis installer la dernière version.
+ ou `Cmd+Shif+P`), ouvrir la page **Arduino: Board Manager**, et rechercher **AZ3166**, puis installer la version **1.6.0** (les autres versions suppérieures 1.6.0+ ne sont pas encore compatibles avec le SDK).
 
 ![Installer le SDK MXChip](docs/media/install-sdk.png)
 
