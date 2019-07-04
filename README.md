@@ -1,4 +1,4 @@
-# Microsoft France Dev Roadshow - Atelier IoT
+# Microsoft Dev Roadshow - MXChip Atelier IoT
 
 Ce repository contient le code ainsi que les instructions vous permettant de 
 réaliser le workshop _codez votre premier projet IoT_ lors du 
